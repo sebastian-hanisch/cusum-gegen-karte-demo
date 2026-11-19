@@ -1,7 +1,6 @@
 # CUSUM gegen Shewhart-Karte: wer merkt den Sprung zuerst? – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-cusum-gegen-karte-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-cusum-gegen-karte-demo.streamlit.app/)**
 
 Konzepte-Demo für die Website „Sebastian Hanisch – Operations Research und Machine Learning“, Stück 2 der Linie **Änderungserkennung** (Stück 1: „Karte und Lauflänge“, Stück 3: „EWMA und das Maß“).
 Die Kante zum Vorgänger heißt `fix`: Die Alarmregel des Vorgängers urteilt aus **einer** Beobachtung (Shewhart-Karte) oder aus einem kurzen festen Fenster und braucht dafür keine Annahme über die Größe des Sprungs.
